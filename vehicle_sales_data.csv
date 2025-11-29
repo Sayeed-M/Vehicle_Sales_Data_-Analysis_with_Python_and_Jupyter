@@ -1,0 +1,41 @@
+brand,model,sales,price,year,type,market_segment
+Toyota,Camry,6800,27000,2023,Sedan,Mid-size
+Honda,Accord,5400,26000,2023,Sedan,Mid-size
+Ford,F-150,9000,40000,2023,Truck,Full-size
+Toyota,Corolla,5900,22000,2023,Sedan,Compact
+Chevrolet,Silverado,8000,42000,2023,Truck,Full-size
+Tesla,Model 3,5200,43000,2023,Electric,Compact
+Ford,Mustang,3200,38000,2023,Sports,Sports
+Honda,CR-V,6100,30000,2023,SUV,Compact
+Toyota,RAV4,6800,31000,2023,SUV,Mid-size
+Nissan,Altima,3000,24000,2023,Sedan,Mid-size
+BMW,3 Series,2800,45000,2023,Sedan,Luxury
+Mercedes,C-Class,3100,50000,2023,Sedan,Luxury
+Audi,A4,2600,48000,2023,Sedan,Luxury
+Volkswagen,Golf,4200,35000,2023,Sedan,Mid-size
+Hyundai,Elantra,3800,28000,2023,Sedan,Compact
+Kia,Optima,3500,32000,2023,Sedan,Mid-size
+Mazda,CX-5,4100,29000,2023,SUV,Compact
+Subaru,Outback,2900,31000,2023,SUV,Compact
+Lexus,RX,3400,52000,2023,SUV,Luxury
+Jeep,Wrangler,4700,35000,2023,SUV,Mid-size
+Dodge,Charger,2200,38000,2023,Muscle,Full-size
+Ram,Ram 1500,7800,55000,2023,Truck,Full-size
+GMC,Yukon,2100,58000,2023,SUV,Full-size
+Cadillac,Escalade,1900,75000,2023,SUV,Luxury
+Buick,Enclave,2300,48000,2023,SUV,Mid-size
+Pontiac,G6,1200,32000,2023,Sedan,Compact
+Chevrolet,Malibu,5600,29000,2023,Sedan,Mid-size
+Ford,Fusion,4800,28000,2023,Sedan,Mid-size
+Toyota,Venza,3900,48000,2023,SUV,Mid-size
+Honda,Civic,5100,27000,2023,Sedan,Mid-size
+Tesla,Model Y,4300,65000,2023,Electric,Luxury
+Nissan,Leaf,2800,33000,2023,Electric,Compact
+Hyundai,Tucson,3200,26000,2023,SUV,Mid-size
+Kia,Seltos,2900,24000,2023,SUV,Compact
+Mazda,CX-3,2700,25000,2023,SUV,Compact
+Subaru,Impreza,2400,27000,2023,Sedan,Compact
+Lexus,ES,3600,44000,2023,Sedan,Mid-size
+Acura,MDX,2500,49000,2023,SUV,Luxury
+Infiniti,QX50,2200,56000,2023,SUV,Luxury
+Volvo,XC90,1800,52000,2023,SUV,Luxury
